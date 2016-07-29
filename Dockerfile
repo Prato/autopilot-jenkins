@@ -1,0 +1,1 @@
+FROM prato/autopilot-base
